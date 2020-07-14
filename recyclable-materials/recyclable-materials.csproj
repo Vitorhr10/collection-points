@@ -74,6 +74,7 @@
     <Content Include="default.aspx" />
     <Content Include="itens.aspx" />
     <Content Include="points.aspx" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
