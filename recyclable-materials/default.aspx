@@ -12,7 +12,7 @@
         <div style="text-align: center">
             Cadastro dos pontos de coleta de Uberaba<br />
             <br />
-            <a  href="items.aspx">Items de coleta</a> | <a href="points.aspx">Pontos de coleta</a><br />
+            <a href="points.aspx">Pontos de coleta</a> | <a  href="itens.aspx">Items de coleta</a><br />
             <br />
             <br />
             <br />

@@ -9,6 +9,7 @@
 </head>
 <body>
     <center>
+    <div style="text-align: center; width: 50%;">
     <form id="form1" runat="server">
         <div style="text-align: center">
             Cadastre um Item de coleta
@@ -94,6 +95,7 @@
             <div style="text-align: right";><a href="default.aspx">Voltar</a></div>
         </div>
     </form>
+    </div>
     </center>
 </body>
 </html>
