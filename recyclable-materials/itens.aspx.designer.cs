@@ -10,7 +10,7 @@
 namespace recyclable_materials {
     
     
-    public partial class items {
+    public partial class itens {
         
         /// <summary>
         /// Controle form1.
@@ -40,12 +40,12 @@ namespace recyclable_materials {
         protected global::System.Web.UI.WebControls.GridView GridView1;
         
         /// <summary>
-        /// Controle conexao.
+        /// Controle SqlDataSource1.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource conexao;
+        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
     }
 }

@@ -72,7 +72,7 @@
       <DependentUpon>Database.mdf</DependentUpon>
     </Content>
     <Content Include="default.aspx" />
-    <Content Include="items.aspx" />
+    <Content Include="itens.aspx" />
     <Content Include="points.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -84,12 +84,12 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="items.aspx.cs">
-      <DependentUpon>items.aspx</DependentUpon>
+    <Compile Include="itens.aspx.cs">
+      <DependentUpon>itens.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="items.aspx.designer.cs">
-      <DependentUpon>items.aspx</DependentUpon>
+    <Compile Include="itens.aspx.designer.cs">
+      <DependentUpon>itens.aspx</DependentUpon>
     </Compile>
     <Compile Include="points.aspx.cs">
       <DependentUpon>points.aspx</DependentUpon>

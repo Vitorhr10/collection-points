@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace recyclable_materials
 {
-    public partial class items : System.Web.UI.Page
+    public partial class itens : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
